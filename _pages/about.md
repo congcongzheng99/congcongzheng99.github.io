@@ -18,7 +18,7 @@ Research Interests
 ==================
 
 I am interested in **Quantum Learning Theory**, which studies how to learn unknown quantum systems under limited resources.
-Relevant topics include quantum tomography, quantum verification and certification, stabilizer testing and learning, and quantum property testing.
+Relevant topics include quantum tomography, quantum verification/certification, stabilizer testing/learning, and quantum property testing.
 
 1. **Learning Algorithms**: designing efficient quantum algorithms for typical quantum learning tasks under constraints such as limited entanglement and quantum memory.
 2. **Learning Complexity**: determining the minimal resources required to learn an unknown quantum object.
